@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 실제 세무 데이터 / 프로젝트 산출물 (민감정보)
+프로젝트/
+*.rkproject
+*_첨부파일/
+*.xlsx
+*.xlsm
+*.xls
+*.pdf
+*.zip
+
+# OS / 편집기
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
